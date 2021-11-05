@@ -1,0 +1,3 @@
+#!/bin/bash
+((sum=22+35))
+echo "$sum"
